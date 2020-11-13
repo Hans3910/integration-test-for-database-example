@@ -1,4 +1,4 @@
-package com.switchfully.databasedemowithintegrationtest;
+package com.switchfully.databasedemowithintegrationtest.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
